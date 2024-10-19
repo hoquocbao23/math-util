@@ -8,3 +8,5 @@
 * ...
 
 ![JUnit and Maven](https://github.com/hoquocbao23/math-util/blob/main/screenshoot/Screenshot%202024-10-19%20at%2013.00.33.png)
+
+[![Math Utility Project  | © 2024 by bảo.nguyễn](https://github.com/hoquocbao23/math-util/actions/workflows/ci-script.yml/badge.svg)](https://github.com/hoquocbao23/math-util/actions/workflows/ci-script.yml)
